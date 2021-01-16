@@ -12,4 +12,4 @@ Me inspirei em [Giovanna](https://github.com/giovannamoeller),uma pessoa inspira
 Prévia do projeto
 https://bittenks.github.io/login/
 
-![alt text]()
+![alt text](https://github.com/bittenks/login/blob/main/login.gif)
